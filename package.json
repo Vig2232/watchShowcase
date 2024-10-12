@@ -1,0 +1,31 @@
+{
+  "name": "archer",
+  "version": "1.0.0",
+  "description": "Archer backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AscentyaEkBazaar/Archer.git"
+  },
+  "author": "Ascentya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AscentyaEkBazaar/Archer/issues"
+  },
+  "homepage": "https://github.com/AscentyaEkBazaar/Archer#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.1",
+    "multer": "^1.4.5-lts.1",
+    "mysql2": "^3.6.0",
+    "nodemon": "^3.0.1",
+    "sequelize": "^6.32.1",
+    "snakecase-keys": "^5.4.6",
+    "tedious": "^16.4.0"
+  }
+}

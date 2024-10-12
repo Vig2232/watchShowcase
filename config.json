@@ -1,0 +1,28 @@
+{
+    "Server_port": 8000,
+    "Data_base": {
+        "Data_base": "archer",
+        "User_name": "root",
+        "Password": "abservetech",
+        "Host": "localhost"
+    },
+    "Token_secret": "archer",
+    "User_roles": {
+        "Admin": "A",
+        "User": "U"
+    },
+    "categories": [
+        "Men's Watches / Women's Watches",
+        "New Watches / Pre-Owned Watches",
+        "Mechanical Watches / Automatic Watches",
+        "Vintage Watches",
+        "Chronographs",
+        "Diving Watches",
+        "Pilot's Watches",
+        "Military Watches",
+        "Swiss Watches",
+        "Racing Watches",
+        "Sailing Watches",
+        "Bracelets and Straps / Parts and Accessories"
+    ]
+}
